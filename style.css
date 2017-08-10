@@ -1,0 +1,172 @@
+  .box {
+                width: 300px;
+                margin-top: 100px;
+                padding:25px;
+                margin: 125px;
+                margin-left: 800px;
+                color: whitesmoke;
+                background-color: transparent;
+                margin-top: -320px;
+                }
+
+body{
+	background-image:url(img/front.jpg);
+  background-size: cover;
+  margin:0px;
+  padding: 0px;
+}
+h3{
+    font-size: 15px;
+    color:crimson;
+}
+
+p{
+	color: #FFF;
+	text-transform: capitalize;
+	font-size: 15px;
+	font-weight: 300;
+    margin-left: 600px;
+}
+
+.error{
+	border: 2px white;
+}
+
+.welcome{
+    background-image: url(img/front1.jpg);
+    background-size: cover;
+    width: auto;
+    height: 510px;
+	  text-align: center;
+	  padding-top: 150px;
+	  font-size: 30px;
+	  font-weight: 800;
+	  color: red;
+}
+
+input{
+	font-size: 15px;
+	font-weight: 100;
+	text-transform: capitalize;
+  width: 200px;
+  height: 20px;
+}
+
+
+#button-for-vd{
+	fon
+  t-size: 20px;
+	font-weight: 100;
+  border-radius: 20px;
+  background-color: transparent;
+  color:white;
+}
+
+#button-for-vd:hover{
+    color: #FA2626;
+}
+.hidden{
+	display: none;
+}
+
+#main{
+	width:  500px;
+	margin-left: 200px;
+	padding-top: -10px;
+}
+
+#songs{
+	width: 800px;
+  height:350px;
+  background-color: transparent;
+  margin-right: 20px;
+	font-size: 20px;
+	font-weight: 800px;
+  color: white;
+
+}
+
+.current-song-wrapper div {
+		display: inline-block;
+		vertical-align: top;
+		margin-left: 5px;
+
+}
+
+.current-song-name {
+	font-size: 22px;
+	margin: 0;
+}
+
+.current-song-album {
+	margin: 5px 0;
+}
+
+audio {
+    }
+	width: 340px;
+}
+
+section {
+	padding: 2%;
+}
+
+.player-buttons{
+	text-align: center;
+}
+.current-song-image{
+     width="80";
+    height="80";
+    border="1";
+}
+#song1{
+    margin-left: 100px;
+}
+.user-name{
+    margin-left:50px;
+}
+
+#virtualdrum{
+    margin-top: -170px;
+    border: 20px soild black;
+}
+
+.current-time{
+    color: aliceblue;
+    margin-left:5px;
+}
+
+tbody{
+  color:black;
+}
+
+table{
+    background-color:aqua;
+}
+.songs_filter{
+    margin-left: 300px;
+}
+
+#songs_wrapper{
+  background-color: transparent;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+label{
+  color: red;
+}
+
+#song_info{
+  color: red;
+}
+
+#submitbtn{
+  font-size: 20px;
+  /*t-size: 20px;*/
+  font-weight: 100;
+  border-radius: 20px;
+  background-color: transparent;
+  color:red;
+
+}
